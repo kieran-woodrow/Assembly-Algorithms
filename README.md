@@ -62,6 +62,8 @@ Can be run in vs code or terminal.
 
 ## 📷 Screenshots
 
-![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.15.50.png)
+![threads](https://github.com/kieran-woodrow/Assembly-Algorithms/blob/main/Assets/Screenshot%202024-06-06%20at%2021.40.31.png)
+
+![threads](https://github.com/kieran-woodrow/Assembly-Algorithms/blob/main/Assets/Screenshot%202024-06-06%20at%2021.42.03.png)
 
 
